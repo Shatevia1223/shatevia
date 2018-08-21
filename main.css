@@ -1,0 +1,108 @@
+
+h1{
+  text-align: center;
+  font-size: 70px;
+}
+
+/*
+.nav {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 80%;
+    font-weight: bold;
+   padding: 0 3px;
+    color: #;
+}
+
+
+ul {
+  padding: 40px;
+  width: 200px;
+  background-color: : white;
+  border: 5px solid black;
+  border-style: dashed;
+}
+
+
+p{
+  text-align: center;
+  text-decoration: upperCase;
+  font-size: 50px;
+}
+
+p2{
+  text-align: justify;
+  font-size: 50px;
+}
+
+footer {
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+    font-size: 20px;
+    border-style: double;
+}
+
+*/
+
+
+ This is a practice
+
+
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+    margin:0;
+}
+
+.crumb {
+    display: inline-block;
+}
+
+.crumb ::after {
+    display: inline-block;
+    color: #000;
+    content: '>';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 3px;
+}
+
+/*
+.gorg {
+  grid-template-rows: inherit;
+grid-template-rows: initial;
+grid-template-rows: unset;
+}
+
+
+body {
+	padding-top: 70px;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.navbar-inverse{
+	background: #2c3e50;
+	text-align: center;
+}
+
+a {
+	color: black;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+	font-size: 20px;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+	font-size: 20px;
+}
